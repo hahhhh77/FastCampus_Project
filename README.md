@@ -6,7 +6,7 @@
 - **강의 구성** : **커머스, HR, 제조업**에 종사하는 데이터 분석가들이 실제 직면하는 데이터 분석 주제를 토대로 **'비즈니스 문제 정의, 가설 설정, 데이터 전처리, 탐색적 데이터 분석, 데이터 분석, 인사이트 도출, 시각화' 전 과정**에 대한 역량을 키울 수 있는 내용들로 구성되어 있음 
 
 <br><br>
-## 🛒 커머스
+## 🛒 커머스 데이터 분석
 ### 🔎 배경
 ### 커머스 - 프로젝트 1
 
@@ -27,4 +27,23 @@
   - **01_AssociationRule_활용_아이템추천.ipynb** &nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1IZYTyVdl4OKhBksZnOJXHHxIDzOrJvRd/view?usp=sharing)
     - 구매상품 연관분석(연령별 선호하는 상품 및 동시구매 상품 분석) <mark>**(네트워크 그래프 시각화, 연관분석)**</mark>
 
-<br><br><br>
+<br><br>
+
+## 🏫 패스트캠퍼스 수강내역 데이터 분석
+### 🔎 배경
+### 파이널프로젝트
+
+- **패스트캠퍼스 수강내역을 토대로 다양한 분석 및 인사이트 도출**
+
+
+- **파일 주요내용**
+  - **01_파이널_데이터분석.ipynb** &nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1JeUdEFtSxbphLOMNOXeEVEKBcCUiGuAY/view?usp=sharing)
+    -  패스트캠퍼스 수강내역을 토대로 다양한 데이터 분석
+      <br>
+  - **02_환불내역_리포트페이지.pdf** &nbsp;&nbsp;&nbsp; 
+    - 패스트캠퍼스의 환불내역을 토대로 리포트 페이지를 작성한 파일
+<br><br>
+### 데이터 분석에 활용한 데이터 
+- order-9968.txt 파일은 용량이 너무 커서 zip 파일로 업로드 되어있음
+  
+<img width="1273" alt="스크린샷 2024-04-09 오후 11 01 01" src="https://github.com/hahhhh77/Fastcampus_DataAnalysis/assets/50604929/01e0ecc4-2cd0-4252-ae9b-901249d90256">
