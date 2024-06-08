@@ -27,5 +27,4 @@
   - **01_AssociationRule_활용_아이템추천.ipynb** &nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1IZYTyVdl4OKhBksZnOJXHHxIDzOrJvRd/view?usp=sharing)
     - 구매상품 연관분석(연령별 선호하는 상품 및 동시구매 상품 분석) <mark>**(네트워크 그래프 시각화, 연관분석)**</mark>
 
-
-
+<br><br><br>
