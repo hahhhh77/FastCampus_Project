@@ -45,5 +45,5 @@
 <br><br>
 ### 데이터 분석에 활용한 데이터 
 - order-9968.txt 파일은 용량이 너무 커서 zip 파일로 업로드 되어있음
-  
-<img width="1273" alt="스크린샷 2024-04-09 오후 11 01 01" src="https://github.com/hahhhh77/Fastcampus_DataAnalysis/assets/50604929/01e0ecc4-2cd0-4252-ae9b-901249d90256">
+  <br><br>
+  <img width="1273" alt="DataSchema" src="https://github.com/hahhhh77/FastCampus_Project/assets/50604929/e54fe691-3a87-442f-8a41-a03c8bee45bf">
